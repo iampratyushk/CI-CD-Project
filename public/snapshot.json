@@ -1,0 +1,642 @@
+[
+  {
+    "timestamp": 1747562198918,
+    "code": ""
+  },
+  {
+    "timestamp": 1747562201550,
+    "code": "f"
+  },
+  {
+    "timestamp": 1747562201613,
+    "code": "fo"
+  },
+  {
+    "timestamp": 1747562201741,
+    "code": "for"
+  },
+  {
+    "timestamp": 1747562202010,
+    "code": "forL"
+  },
+  {
+    "timestamp": 1747562202294,
+    "code": "for"
+  },
+  {
+    "timestamp": 1747562203233,
+    "code": ""
+  },
+  {
+    "timestamp": 1747562203983,
+    "code": "l"
+  },
+  {
+    "timestamp": 1747562204106,
+    "code": "le"
+  },
+  {
+    "timestamp": 1747562204249,
+    "code": "let"
+  },
+  {
+    "timestamp": 1747562204357,
+    "code": "let "
+  },
+  {
+    "timestamp": 1747562204584,
+    "code": "let s"
+  },
+  {
+    "timestamp": 1747562204715,
+    "code": "let su"
+  },
+  {
+    "timestamp": 1747562204931,
+    "code": "let sum"
+  },
+  {
+    "timestamp": 1747562204991,
+    "code": "let sum "
+  },
+  {
+    "timestamp": 1747562205287,
+    "code": "let sum ="
+  },
+  {
+    "timestamp": 1747562205390,
+    "code": "let sum = "
+  },
+  {
+    "timestamp": 1747562206001,
+    "code": "let sum = -"
+  },
+  {
+    "timestamp": 1747562206498,
+    "code": "let sum = "
+  },
+  {
+    "timestamp": 1747562206781,
+    "code": "let sum = 0"
+  },
+  {
+    "timestamp": 1747562207017,
+    "code": "let sum = 0;"
+  },
+  {
+    "timestamp": 1747562207295,
+    "code": "let sum = 0;\r\n"
+  },
+  {
+    "timestamp": 1747562208113,
+    "code": "let sum = 0;\r\nc"
+  },
+  {
+    "timestamp": 1747562208178,
+    "code": "let sum = 0;\r\nco"
+  },
+  {
+    "timestamp": 1747562208250,
+    "code": "let sum = 0;\r\ncon"
+  },
+  {
+    "timestamp": 1747562208302,
+    "code": "let sum = 0;\r\ncons"
+  },
+  {
+    "timestamp": 1747562208413,
+    "code": "let sum = 0;\r\nconst"
+  },
+  {
+    "timestamp": 1747562208454,
+    "code": "let sum = 0;\r\nconst "
+  },
+  {
+    "timestamp": 1747562208576,
+    "code": "let sum = 0;\r\nconst a"
+  },
+  {
+    "timestamp": 1747562208724,
+    "code": "let sum = 0;\r\nconst ar"
+  },
+  {
+    "timestamp": 1747562208861,
+    "code": "let sum = 0;\r\nconst arr"
+  },
+  {
+    "timestamp": 1747562208931,
+    "code": "let sum = 0;\r\nconst arr "
+  },
+  {
+    "timestamp": 1747562209062,
+    "code": "let sum = 0;\r\nconst arr ="
+  },
+  {
+    "timestamp": 1747562209184,
+    "code": "let sum = 0;\r\nconst arr = "
+  },
+  {
+    "timestamp": 1747562209290,
+    "code": "let sum = 0;\r\nconst arr = []"
+  },
+  {
+    "timestamp": 1747562209481,
+    "code": "let sum = 0;\r\nconst arr = [1]"
+  },
+  {
+    "timestamp": 1747562209639,
+    "code": "let sum = 0;\r\nconst arr = [1,]"
+  },
+  {
+    "timestamp": 1747562209793,
+    "code": "let sum = 0;\r\nconst arr = [1,2]"
+  },
+  {
+    "timestamp": 1747562210006,
+    "code": "let sum = 0;\r\nconst arr = [1,2,]"
+  },
+  {
+    "timestamp": 1747562210154,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3]"
+  },
+  {
+    "timestamp": 1747562210344,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,]"
+  },
+  {
+    "timestamp": 1747562210481,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4]"
+  },
+  {
+    "timestamp": 1747562210666,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,]"
+  },
+  {
+    "timestamp": 1747562210793,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5]"
+  },
+  {
+    "timestamp": 1747562210955,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,]"
+  },
+  {
+    "timestamp": 1747562211291,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,,]"
+  },
+  {
+    "timestamp": 1747562211417,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,,6]"
+  },
+  {
+    "timestamp": 1747562211854,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,,]"
+  },
+  {
+    "timestamp": 1747562212153,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,]"
+  },
+  {
+    "timestamp": 1747562212680,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8]"
+  },
+  {
+    "timestamp": 1747562213446,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,]"
+  },
+  {
+    "timestamp": 1747562213721,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0]"
+  },
+  {
+    "timestamp": 1747562214412,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];"
+  },
+  {
+    "timestamp": 1747562214695,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n"
+  },
+  {
+    "timestamp": 1747562215476,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\n"
+  },
+  {
+    "timestamp": 1747562216032,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nf"
+  },
+  {
+    "timestamp": 1747562216128,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfo"
+  },
+  {
+    "timestamp": 1747562216208,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor"
+  },
+  {
+    "timestamp": 1747562216548,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor()"
+  },
+  {
+    "timestamp": 1747562216685,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor(l)"
+  },
+  {
+    "timestamp": 1747562216809,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor(le)"
+  },
+  {
+    "timestamp": 1747562216962,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor(let)"
+  },
+  {
+    "timestamp": 1747562217427,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor()"
+  },
+  {
+    "timestamp": 1747562217552,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nfor"
+  },
+  {
+    "timestamp": 1747562218261,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\n"
+  },
+  {
+    "timestamp": 1747562218637,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\na"
+  },
+  {
+    "timestamp": 1747562218827,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\nar"
+  },
+  {
+    "timestamp": 1747562218968,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr"
+  },
+  {
+    "timestamp": 1747562219529,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr."
+  },
+  {
+    "timestamp": 1747562219734,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.r"
+  },
+  {
+    "timestamp": 1747562219852,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.re"
+  },
+  {
+    "timestamp": 1747562220042,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.red"
+  },
+  {
+    "timestamp": 1747562220285,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce"
+  },
+  {
+    "timestamp": 1747562220574,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce()"
+  },
+  {
+    "timestamp": 1747562220788,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce(())"
+  },
+  {
+    "timestamp": 1747562221150,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((p))"
+  },
+  {
+    "timestamp": 1747562221281,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pr))"
+  },
+  {
+    "timestamp": 1747562221396,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre))"
+  },
+  {
+    "timestamp": 1747562221471,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,))"
+  },
+  {
+    "timestamp": 1747562221653,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,a))"
+  },
+  {
+    "timestamp": 1747562221892,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,ac))"
+  },
+  {
+    "timestamp": 1747562222031,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc))"
+  },
+  {
+    "timestamp": 1747562222463,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc),)"
+  },
+  {
+    "timestamp": 1747562222762,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc),{})"
+  },
+  {
+    "timestamp": 1747562222936,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc),{\r\n    \r\n})"
+  },
+  {
+    "timestamp": 1747562225196,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc),{})"
+  },
+  {
+    "timestamp": 1747562225339,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc),)"
+  },
+  {
+    "timestamp": 1747562225683,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc))"
+  },
+  {
+    "timestamp": 1747562226412,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=)"
+  },
+  {
+    "timestamp": 1747562226723,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>)"
+  },
+  {
+    "timestamp": 1747562226979,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n)"
+  },
+  {
+    "timestamp": 1747562227018,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{})"
+  },
+  {
+    "timestamp": 1747562227182,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    \r\n})"
+  },
+  {
+    "timestamp": 1747562228767,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},)"
+  },
+  {
+    "timestamp": 1747562229011,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},[])"
+  },
+  {
+    "timestamp": 1747562229727,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},)"
+  },
+  {
+    "timestamp": 1747562230205,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},-)"
+  },
+  {
+    "timestamp": 1747562230565,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},)"
+  },
+  {
+    "timestamp": 1747562230733,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},-)"
+  },
+  {
+    "timestamp": 1747562231149,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},)"
+  },
+  {
+    "timestamp": 1747562231597,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562233734,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    \r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562233901,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    r\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562233968,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    re\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562234148,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    ret\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562234262,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    retu\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562234340,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    retur\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562234417,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562234536,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return \r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562235448,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return p\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562235531,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pr\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562235659,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562236569,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre_\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562236909,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562237143,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre+\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562237428,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre+a\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562237679,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre+ac\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562237824,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre+acc\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562238156,
+    "code": "let sum = 0;\r\nconst arr = [1,2,3,4,5,8,0];\r\n\r\narr.reduce((pre,acc)=>\r\n{\r\n    return pre+acc;\r\n\r\n},0)"
+  },
+  {
+    "timestamp": 1747562238669,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0)"
+  },
+  {
+    "timestamp": 1747562239427,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);"
+  },
+  {
+    "timestamp": 1747562239647,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n"
+  },
+  {
+    "timestamp": 1747562239811,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\n"
+  },
+  {
+    "timestamp": 1747562239939,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nc"
+  },
+  {
+    "timestamp": 1747562240016,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nco"
+  },
+  {
+    "timestamp": 1747562240144,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\ncon"
+  },
+  {
+    "timestamp": 1747562240243,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\ncons"
+  },
+  {
+    "timestamp": 1747562240374,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole"
+  },
+  {
+    "timestamp": 1747562240479,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole."
+  },
+  {
+    "timestamp": 1747562240702,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.l"
+  },
+  {
+    "timestamp": 1747562240785,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.lo"
+  },
+  {
+    "timestamp": 1747562240987,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log"
+  },
+  {
+    "timestamp": 1747562241358,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log()"
+  },
+  {
+    "timestamp": 1747562241617,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"\")"
+  },
+  {
+    "timestamp": 1747562243008,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"S\")"
+  },
+  {
+    "timestamp": 1747562243143,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Su\")"
+  },
+  {
+    "timestamp": 1747562243304,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum\")"
+  },
+  {
+    "timestamp": 1747562243417,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum \")"
+  },
+  {
+    "timestamp": 1747562243543,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum i\")"
+  },
+  {
+    "timestamp": 1747562243661,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is\")"
+  },
+  {
+    "timestamp": 1747562243758,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is \")"
+  },
+  {
+    "timestamp": 1747562243935,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\")"
+  },
+  {
+    "timestamp": 1747562244486,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",)"
+  },
+  {
+    "timestamp": 1747562246875,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",s)"
+  },
+  {
+    "timestamp": 1747562246963,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",su)"
+  },
+  {
+    "timestamp": 1747562247128,
+    "code": "let sum = 0;\r\nconst arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562251610,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\narr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562253967,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\ncarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254054,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\ncoarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254102,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254168,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconsarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254226,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconstarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254319,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst arr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254463,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254590,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst suarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254748,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sumarr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254851,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sum arr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562254970,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sum =arr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562255080,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sum = arr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum)"
+  },
+  {
+    "timestamp": 1747562257419,
+    "code": "const arr = [1, 2, 3, 4, 5, 8, 0];\r\n\r\nconst sum = arr.reduce((pre, acc) => {\r\n    return pre + acc;\r\n\r\n}, 0);\r\n\r\nconsole.log(\"Sum is :\",sum);"
+  }
+]
