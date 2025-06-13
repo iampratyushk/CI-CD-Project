@@ -48,6 +48,14 @@ jobs:
       - name: Restart app using PM2
         run: |
           ssh -o StrictHostKeyChecking=no -i ~/.ssh/ssh_key ubuntu@3.109.203.235 << 'EOF'
-            cd /var/www/my-app
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+            export PATH="$HOME/.nvm/versions/node/$(ls $HOME/.nvm/versions/node)/bin:$PATH"
+
+            cd /home/ubuntu/node-express-hello-world
+            npm ci
+
+            # Start or reload app
             pm2 reload app || pm2 start npm --name "app" -- start
           EOF
+
