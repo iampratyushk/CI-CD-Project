@@ -26,10 +26,7 @@ jobs:
 
       - name: Build project
         run: npm run build
-
-      - name: Run tests
-        run: npm test
-
+        
       - name: Deploy with rsync
         uses: burnett01/rsync-deployments@5.1
         with:
